@@ -25,7 +25,6 @@ import DialogContent from "@mui/material/DialogContent";
 import DialogTitle from "@mui/material/DialogTitle";
 import { useState } from "react";
 import logo from "./assets/iit_ropar.jpg";
-import { Image } from "@mui/icons-material";
 
 interface FormData {
   code: string;
